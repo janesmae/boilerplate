@@ -3,13 +3,27 @@
 In general, we love pull requests from everyone. By participating in this
 project, you agree to abide by the Contributor Covenant Code of Conduct below.
 
-## Pull Request Process
+## How to Contribute to This Project
+
+### **I Found a Bug!**
+
+* Open an Issue
+* Include reproduction steps that others can verify or recreate the bug on their own.
+* Provide environment and platform information if relevant. 
+
+### Pull Request Process
 
 * Fork it!
 * Create your feature branch: `git checkout -b my-new-feature`
+* Make necessary changes to the source code
+* Update documentation
 * Commit your changes: `git commit -am 'Add some feature'`
 * Push to the branch: `git push origin my-new-feature`
 * Submit a pull request
+
+
+
+
 
 ## Contributor Covenant Code of Conduct
 
